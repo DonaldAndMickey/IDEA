@@ -1,0 +1,7 @@
+/Shiro/target/classes
+/Shiro/.settings
+/Shiro/*.classpath
+/Shiro/*.project
+/Shiro/.factorypath
+/Shiro/src/main/webapp/images/JDK.CHM
+/Shiro/target/m2e-wtp/web-resources/META-INF
